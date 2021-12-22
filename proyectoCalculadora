@@ -1,0 +1,6 @@
+Print('HOLA CAMARON CON COLA')
+numUno=""
+numDos=""
+Resultado = numUno+numDos
+Input(Por favor, Ingrese dos numeros), numUno2+numDos)
+Pirnt("El resultado de los numeros ingresados es:")
